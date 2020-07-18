@@ -1,1 +1,29 @@
 /* write your override styles here */
+#wall .tag-1 {
+  display: none;
+}
+
+#wall #tag-2 {
+  position: relative;
+}
+#tag-5
+{
+    position: relative;
+}
+div#wall .parent #tag-5.slick {
+    background: url(../images/tag-5.png) repeat;
+    display:none ;
+}
+tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    position: absolute;
+    top: 1;
+    left: 1;
+}
+#tag-5 {
+    position: relative;
+}
+
+div#wall .parent #tag-5.slick {
+    background: url(../images/tag-5.png) repeat;
+    display:none;
+}
